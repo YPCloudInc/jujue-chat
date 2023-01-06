@@ -1,2 +1,3 @@
 # jujue-chat
-nostr
+---
+> wws://relay.ypcloud.com
