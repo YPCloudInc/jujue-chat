@@ -1,0 +1,2 @@
+# jujue-chat
+nostr
